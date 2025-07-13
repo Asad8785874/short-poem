@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover the power of AI poetry generation. Create beautiful, unique poems with artificial intelligence technology.">
+    <meta name="keywords" content="AI poem generator, artificial intelligence poetry, automated poetry, creative writing, AI writing tools">
+    <meta name="author" content="AI Poetry Hub">
+    <title>AI Poetry Hub - Generate Beautiful Poems with Artificial Intelligence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="logo">
+                    <h1>AI Poetry Hub</h1>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h2>Unleash Your Creativity with AI Poetry</h2>
+                <p>Transform your thoughts into beautiful verses with the power of artificial intelligence. Create stunning poems in seconds with our advanced AI technology.</p>
+                <div class="cta-buttons">
+                    <button class="btn-primary" onclick="generateSamplePoem()">Try Sample Generator</button>
+                    <a href="https://aipoemgenerator.us" class="btn-secondary" rel="dofollow">ai poem generator</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="poem-preview">
+                    <h3>Sample AI Generated Poem</h3>
+                    <div id="sample-poem" class="poem-text">
+                        <p><em>In circuits deep where thoughts collide,<br>
+                        Where silicon dreams and words reside,<br>
+                        A poet born of code and light,<br>
+                        Weaves verses through the endless night.</em></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about">
+            <div class="container">
+                <h2>About AI Poetry Generation</h2>
+                <p>Artificial Intelligence has revolutionized the way we approach creative writing. Our AI poetry tools harness the power of machine learning to understand language patterns, emotions, and artistic expression, enabling anyone to create beautiful, meaningful poetry.</p>
+                
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <h3>🎨 Creative Expression</h3>
+                        <p>Generate unique poems that capture emotions and ideas in beautiful verse form.</p>
+                    </div>
+                    <div class="feature-card">
+                        <h3>⚡ Instant Results</h3>
+                        <p>Create complete poems in seconds with our advanced AI algorithms.</p>
+                    </div>
+                    <div class="feature-card">
+                        <h3>🎯 Multiple Styles</h3>
+                        <p>From haikus to sonnets, generate poetry in various traditional and modern styles.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="features" class="features">
+            <div class="container">
+                <h2>Why Choose AI Poetry Generation?</h2>
+                <div class="benefits-list">
+                    <div class="benefit">
+                        <h3>Overcome Writer's Block</h3>
+                        <p>Never struggle with blank page syndrome again. AI provides instant inspiration and creative starting points.</p>
+                    </div>
+                    <div class="benefit">
+                        <h3>Learn Poetry Techniques</h3>
+                        <p>Study AI-generated examples to understand rhythm, rhyme schemes, and poetic devices.</p>
+                    </div>
+                    <div class="benefit">
+                        <h3>Personalized Content</h3>
+                        <p>Generate poems tailored to specific themes, moods, or occasions that matter to you.</p>
+                    </div>
+                </div>
+                
+                <div class="cta-section">
+                    <h3>Ready to Create Amazing Poetry?</h3>
+                    <p>Experience the future of creative writing with our professional <a href="https://aipoemgenerator.us" rel="dofollow" class="inline-link">ai poem generator</a> tools.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>AI Poetry Hub</h3>
+                <p>Empowering creativity through artificial intelligence and poetry generation technology.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#features">Features</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Resources</h3>
+                <ul>
+                    <li><a href="https://aipoemgenerator.us" rel="dofollow">ai poem generator</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                    <li><a href="#privacy">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 AI Poetry Hub. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
